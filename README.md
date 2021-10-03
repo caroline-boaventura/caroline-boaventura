@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente faço o curso de **Desenvolvimento Web** da Trybe :rocket:
+
+
+
 <!--
 **caroline-boaventura/caroline-boaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
