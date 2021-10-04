@@ -1,14 +1,14 @@
 Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curso **Desenvolvimento Web** na Trybe :rocket:
 
   * Meus hobbies: 
-      ** :video_game: Videogame
-      ** :game_die: Jogos de Tabuleiro
-      ** :seedling: Estar em Contato com a Natureza
-      ** :tv: Séries e Filmes
-      ** :computer: Programar
+      * :video_game: Videogame
+      * :game_die: Jogos de Tabuleiro
+      * :seedling: Estar em Contato com a Natureza
+      * :tv: Séries e Filmes
+      * :computer: Programar
       
   * O que já sei:
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
 
