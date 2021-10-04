@@ -10,12 +10,10 @@ Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curs
 
 
 <h5>O que já sei:</h5>
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" width="50px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" width="50px" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" width="50px" /> <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" width="50px" />
   <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" width="50px" />
   <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg width="50px" />
-      <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" width="50px" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" width="50px" />
 
 
 
