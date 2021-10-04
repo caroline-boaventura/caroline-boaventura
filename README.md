@@ -8,7 +8,7 @@ Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curs
       * :computer: Programar
       
   * O que já sei:
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" width="50px" />
 
 
 
