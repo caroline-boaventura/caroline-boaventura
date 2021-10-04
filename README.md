@@ -2,32 +2,35 @@ Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curs
 
 
 <h5>Meus hobbies:</h5> 
-     * :video_game: Videogame
-     * :game_die: Jogos de Tabuleiro
-     * :seedling: Estar em Contato com a Natureza
-     * :tv: Séries e Filmes
-     * :computer: Programar
+
+* :video_game: Videogame
+* :game_die: Jogos de Tabuleiro
+* :seedling: Estar em Contato com a Natureza
+* :tv: Séries e Filmes
+* :computer: Programar
 
 
 <h5>O que já sei:</h5>
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" width="50px" /> <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" width="50px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" width="50px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" width="50px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/react.png" width="50px" />
+<div>
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" height="35px" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/css.jpeg" height="35px" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" height="35px" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" height="35px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px" />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="35px" />
+</div>
 
-
-
-<!--
-**caroline-boaventura/caroline-boaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5>Meus contatos:</h5>
+<div>
+    <a href="https://www.linkedin.com/in/caroline-boaventura-79544b53/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
+    </a>
+    <a href="mailto:caroline.boaventura08@gmail.com?Subject=Contato%20da%20mensagem">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px">
+    </a>
+</div>
+<br>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=caroline-boaventura" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-boaventura" height="150px" />
+</div>
