@@ -8,7 +8,7 @@ Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curs
       * :computer: Programar
       
   * O que já sei:
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" />
 
 
 
