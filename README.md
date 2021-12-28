@@ -18,6 +18,10 @@ Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curs
   <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" height="35px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="35px" />
+  <img src="https://coollogo.net/wp-content/uploads/2021/03/MySql-logo.svg" height="35px" />
+  <img src="https://propus.com.br/wp-content/uploads/2016/08/mongodb.png" height="35px" />
+  <img src="https://logowik.com/content/uploads/images/301_docker.jpg" height="35px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="35px" />
 </div>
 
 <h5>Meus contatos:</h5>
