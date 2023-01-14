@@ -1,4 +1,4 @@
-Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e atualmente curso **Desenvolvimento Web** na Trybe :rocket:
+Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e sou **Desenvolvedora Web** na <a href="https://bizcapital.com.br/">BizCapital</a> :rocket:
 
 
 <h5>Meus hobbies:</h5> 
