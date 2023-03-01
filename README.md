@@ -1,4 +1,4 @@
-Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e sou **Desenvolvedora Web** na <a href="https://bizcapital.com.br/">BizCapital</a> :rocket:
+Olá, me chamo **Caroline Boaventura**, sou de Belo Horizonte, e sou **Desenvolvedora Web** :rocket:
 
 
 <h5>Meus hobbies:</h5> 
